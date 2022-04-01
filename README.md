@@ -44,8 +44,8 @@ Increase the pattern's length
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-I had to use google drive to upload my gifs
-![]https://drive.google.com/file/d/1rP0bT83UfQs9sbKXaRTXUrmD6j5Q91yv/view?usp=sharing
+
+![]https://imgur.com/gSXQDVP
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
