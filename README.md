@@ -45,7 +45,7 @@ Increase the pattern's length
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-![]https://imgur.com/gSXQDVP
+![]https://i.imgur.com/gSXQDVP.gif
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
